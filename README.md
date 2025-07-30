@@ -154,27 +154,31 @@ This game uses the following AI systems:
 ## EXAMPLE ARTIFACTS :
 ```
 ============================================================
-Celestial Paradox Tracker
+The Living Equation of Existence
 ============================================================
-ID: 54deb34d
-Category: Astronomical
+ID: 1c994bf8
+Category: Linguistic
 Rarity: LEGENDARY
-Value: 568 credits
+Value: 14 credits
 
-╭──────────────────────────────╮
-│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│
-│▓⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇▓│
-│▓⌇⚫────────────⚫⌇▓│
-│▓⌇│▓▓▓▓▓▓▓▓▓▓▓▓│⌇▓│
-│▓⌇│▓⌇⌇⌇⌇⌇⌇⌇⌇▓│⌇▓│
-│▓⌇⚫────────────⚫⌇▓│
-│▓⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇⌇▓│
-│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│
-╰──────────────────────────────╯
+╔═════════════════════════════════════════════════════════╗
+║ Δ ∞ ╱╲╱╲Σ ╱╲╱╲Ψ ╱╲╱╲Ω ╱╲╱╲Σ ╱╲╱╲Ψ ╱╲╱╲Ω ∞ Δ             ║
+║ ⊛                                                      ║
+║  ╱╲╱╲Σ ╱╲╱╲Ψ ╱╲╱╲Ω ╱╲╱╲Σ ╱╲╱╲Ψ ╱╲╱╲Ω                    ║
+║   ╱╲╱╲Σ ╱╲╱╲Ψ ╱╲╱╲Ω ╱╲╱╲Σ ╱╲╱╲Ψ ╱╲╱╲Ω                   ║
+║    ╱╲╱╲Σ ╱╲╱╲Ψ ╱╲╱╲Ω ╱╲╱╲Σ ╱╲╱╲Ψ ╱╲╱╲Ω                  ║
+║ ══╬══╬══╬══╬══╬══╬══╬══╬══╬══╬══                        ║
+║    ╱╲╱╲Σ ╱╲╱╲Ψ ╱╲╱╲Ω ╱╲╱╲Σ ╱╲╱╲Ψ ╱╲╱╲Ω                  ║
+║   ╱╲╱╲Σ ╱╲╱╲Ψ ╱╲╱╲Ω ╱╲╱╲Σ ╱╲╱╲Ψ ╱╲╱╲Ω                   ║
+║  ╱╲╱╲Σ ╱╲╱╲Ψ ╱╲╱╲Ω ╱╲╱╲Σ ╱╲╱╲Ψ ╱╲╱╲Ω                    ║
+║ ⊛                                                      ║
+║  Δ ∞ ╱╲╱╲Σ ╱╲╱╲Ψ ╱╲╱╲Ω ╱╲╱╲Σ ╱╲╱╲Ψ ╱╲╱╲Ω ∞ Δ            ║
+╚═════════════════════════════════════════════════════════╝
 
-The Celestial Paradox Tracker is a legendary artifact of immense complexity and profound significance. It was designed by a forgotten civilization of cosmic beings capable of observing and manipulating the very fabric of space-time. The Tracker is both a physical object and a metaphysical entity, a product of technology so advanced it blurs the line with magic. 
+The Living Equation of Existence, a legendary artifact of the VOID ENGINE, is a mathematical testament to the grandeur of organic life and its intricate interactions with the environment, time, and itself. The ASCII representation of this artifact portrays a complex matrix of mathematical symbols, each one signifying a different aspect of life. 
 
-The artifact's core function is to track and record the movement of celestial objects following impossible orbital patterns. It can visually represent these paradoxical paths with intricate diagrams, the ASCII symbols indicating the object's path, cycle timing, variation factors, and violation of physical laws. It is a testament to the cosmic intelligence of its creators, a race of beings that have harnessed the power to bend reality to their will.
+The Δ (delta) symbol stands for change, representing the constant evolution and adaptations of life. The ∞ (infinity) symbol is indicative of the perpetual cycle of existence, the eternal ebb and flow of life and death. The Σ (sigma) symbolizes the sum of all life forms, stressing the interconnectedness and interdependence of all entities within an ecosystem.
+
 ```
 
 ```
